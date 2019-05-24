@@ -1,5 +1,6 @@
 Prequisite 
-Lombok plugin 
+Lombok plugin
+Maven and Java 1.8 is used.
 
 You can test the application via 
 Swagger http://localhost:8080/swagger-ui.html
